@@ -2,4 +2,4 @@
 Just messing around with this to figure out how to use it.
 
 
-Checkout [AA](http://activeadmin.info/ "Active Admin") 
+Checkout [Active Admin](http://activeadmin.info/ "Active Admin") 
